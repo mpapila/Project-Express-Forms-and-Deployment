@@ -14,4 +14,5 @@ Local Library is a web application built using Node.js and Express, designed to 
 
 ## Live Website
 
-You can access the live website [here]([(https://hissing-determined-bittersweet.glitch.me)](https://hissing-determined-bittersweet.glitch.me)).
+You can access the live website [here](https://hissing-determined-bittersweet.glitch.me).
+
